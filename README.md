@@ -1,4 +1,4 @@
-Sistema de Gestão Digimaq
+Sistema de Gestão de Impressoras
 
 Sistema em linguagem C para gerenciamento de impressoras alugadas e impressoras de clientes, desenvolvido como trabalho final da disciplina de Fundamentos de Algoritmos e Programação / Laboratório de Programação.
 
